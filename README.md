@@ -29,7 +29,7 @@ I started as a Game Master and QA Tester, co-founded India's #1 ranked DOTA 1 te
 | 7 | [Mini Crossword](https://github.com/stonedhawk/mini-crossword) | 5x5 crossword puzzles with daily rotation | React | [Play](https://stonedhawk.github.io/mini-crossword) |
 | 8 | [Space Invaders](https://github.com/stonedhawk/space-invaders) | Retro shooter with progressive difficulty | Canvas, JS | [Play](https://stonedhawk.github.io/space-invaders) |
 | 9 | [Pixel Platformer](https://github.com/stonedhawk/pixel-platformer) | Side-scrolling platformer with 3 levels | Canvas, JS | [Play](https://stonedhawk.github.io/pixel-platformer) |
-| 10 | [LiveOps Planner](https://github.com/stonedhawk/liveops-planner) | Event calendar for game producers | React | [Try it](https://stonedhawk.github.io/liveops-planner) |
+
 
 > Links go live as each project ships. Building in public, one repo at a time.
 
