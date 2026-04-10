@@ -63,36 +63,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stonedhawk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonedhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=stonedhawk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stonedhawk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🕹️ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/stonedhawk/pong-arcade">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=pong-arcade&theme=tokyonight&hide_border=true" alt="Pong Arcade" />
-</a>
-<a href="https://github.com/stonedhawk/snake-reloaded">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=snake-reloaded&theme=tokyonight&hide_border=true" alt="Snake Reloaded" />
-</a>
-<a href="https://github.com/stonedhawk/space-invaders">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=space-invaders&theme=tokyonight&hide_border=true" alt="Space Invaders" />
-</a>
-<a href="https://github.com/stonedhawk/wordle-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=wordle-clone&theme=tokyonight&hide_border=true" alt="Wordle Clone" />
-</a>
-<a href="https://github.com/stonedhawk/2048">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=2048&theme=tokyonight&hide_border=true" alt="2048" />
-</a>
-<a href="https://github.com/stonedhawk/memory-match">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=memory-match&theme=tokyonight&hide_border=true" alt="Memory Match" />
-</a>
-
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏓 [Pong Arcade](https://github.com/stonedhawk/pong-arcade) | Classic ping-pong with an AI opponent | Canvas, JS |
+| 🐍 [Snake Reloaded](https://github.com/stonedhawk/snake-reloaded) | Snake with high score tracking | Canvas, JS |
+| 👾 [Space Invaders](https://github.com/stonedhawk/space-invaders) | Retro shooter with progressive difficulty | Canvas, JS |
+| 🟩 [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | Daily word guessing game with stats | React |
+| 🔢 [2048](https://github.com/stonedhawk/2048) | Sliding tile puzzle game | React |
+| 🃏 [Memory Match](https://github.com/stonedhawk/memory-match) | Card-flip matching game with difficulty levels | React |
 
 ---
 
