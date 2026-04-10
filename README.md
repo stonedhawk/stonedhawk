@@ -73,11 +73,11 @@
 
 <div align="center">
 
-<a href="https://github.com/stonedhawk/Pong-Arcade">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Pong-Arcade&theme=tokyonight&hide_border=true" alt="Pong Arcade" />
+<a href="https://github.com/stonedhawk/pong-arcade">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=pong-arcade&theme=tokyonight&hide_border=true" alt="Pong Arcade" />
 </a>
-<a href="https://github.com/stonedhawk/Snake-Reloaded">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Snake-Reloaded&theme=tokyonight&hide_border=true" alt="Snake Reloaded" />
+<a href="https://github.com/stonedhawk/snake-reloaded">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=snake-reloaded&theme=tokyonight&hide_border=true" alt="Snake Reloaded" />
 </a>
 <a href="https://github.com/stonedhawk/space-invaders">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=space-invaders&theme=tokyonight&hide_border=true" alt="Space Invaders" />
@@ -88,8 +88,8 @@
 <a href="https://github.com/stonedhawk/2048">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=2048&theme=tokyonight&hide_border=true" alt="2048" />
 </a>
-<a href="https://github.com/stonedhawk/OpsDeck">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=OpsDeck&theme=tokyonight&hide_border=true" alt="OpsDeck" />
+<a href="https://github.com/stonedhawk/memory-match">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=memory-match&theme=tokyonight&hide_border=true" alt="Memory Match" />
 </a>
 
 </div>
