@@ -1,61 +1,101 @@
-# Hey, I'm Rahul Shah
+<div align="center">
 
-**Lead Game Producer by day. Building games and tools for fun by night.**
+<!-- Animated typing header -->
+<a href="https://github.com/stonedhawk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Shah+%F0%9F%91%8B;Lead+Game+Producer+%F0%9F%8E%AE;Indie+Game+Developer+%F0%9F%95%B9%EF%B8%8F;Tools+%26+Side+Project+Builder+%F0%9F%94%A7" alt="Typing SVG" />
+</a>
 
-16 years in mobile gaming — live ops, monetization, player retention, and everything in between. Currently running live operations across flagship F2P titles at Moonfrog Labs (Stillfront Group) in Bengaluru, India.
+<br/>
 
-I started as a Game Master and QA Tester, co-founded India's #1 ranked DOTA 1 team (Team Err0r), and worked my way through Glu Mobile, Tencent Games, and Moonfrog Labs. These days I spend my evenings writing code, building small games, and prototyping tools that solve problems I face at work.
+<p>
+  <a href="https://rahul-m-shah-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-mshah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
----
-
-## What I'm building
-
-- **LiveOps Planner** — an event calendar and scheduling tool for game producers
-- **OpsDesk** — a Live Ops Command Center (private, in active development)
-- **Browser games** — small, playable experiments shipped as learning exercises
-
----
-
-## Projects
-
-| # | Project | Description | Tech | Demo |
-|---|---------|-------------|------|------|
-| 1 | [Pong Arcade](https://github.com/stonedhawk/pong-arcade) | Classic ping pong with AI opponent | Canvas, JS | [Play](https://stonedhawk.github.io/pong-arcade) |
-| 2 | [Snake Reloaded](https://github.com/stonedhawk/snake-reloaded) | Snake with high score tracking | Canvas, JS | [Play](https://stonedhawk.github.io/snake-reloaded) |
-| 3 | [Memory Match](https://github.com/stonedhawk/memory-match) | Card-flip matching game with difficulty levels | React | [Play](https://stonedhawk.github.io/memory-match) |
-| 4 | [Minesweeper](https://github.com/stonedhawk/minesweeper) | Full minesweeper with recursive reveal and 3 grid sizes | React | [Play](https://stonedhawk.github.io/minesweeper) |
-| 5 | [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | Daily word guessing game with stats | React | [Play](https://stonedhawk.github.io/wordle-clone) |
-| 6 | [2048](https://github.com/stonedhawk/2048) | Sliding tile puzzle with swipe and keyboard controls | React | [Play](https://stonedhawk.github.io/2048) |
-| 7 | [Mini Crossword](https://github.com/stonedhawk/mini-crossword) | 5x5 crossword puzzles with daily rotation | React | [Play](https://stonedhawk.github.io/mini-crossword) |
-| 8 | [Space Invaders](https://github.com/stonedhawk/space-invaders) | Retro shooter with progressive difficulty | Canvas, JS | [Play](https://stonedhawk.github.io/space-invaders) |
-| 9 | [Pixel Platformer](https://github.com/stonedhawk/pixel-platformer) | Side-scrolling platformer with 3 levels | Canvas, JS | [Play](https://stonedhawk.github.io/pixel-platformer) |
-
-
-> Links go live as each project ships. Building in public, one repo at a time.
+</div>
 
 ---
 
-## Tech I work with
+## 👾 About Me
 
-**Day job:** JIRA, Confluence, Metabase, SQL, A/B testing platforms, ad monetization SDKs, LiveOps tooling
-
-**Side projects:** JavaScript, React, Node.js, PostgreSQL, HTML Canvas, CSS, Git
-
----
-
-## Background
-
-- Lead Game Producer at Moonfrog Labs (Stillfront Group)
-- Previously at Tencent Games India and Glu Mobile (EA)
-- Co-founder, Team Err0r — India's #1 ranked DOTA 1 team (2005-2008)
-- 16 years across production, live ops, monetization, CX, and esports
+- 🎮 **Lead Game Producer** @ [Moonfrog Labs](https://www.moonfrog.com/) (Stillfront Group) — Bangalore, India
+- 📱 **16 years** in mobile gaming — live ops, monetization, player retention, and everything in between
+- 🕹️ Co-founder of India's top-ranked DOTA 1 team *(yes, really)*
+- 🏢 Past studios: **Tencent Games**, **Glu Mobile**, and more
+- 🌙 Nights & weekends: building browser games and productivity tools for fun
+- 💡 Firm believer that **shipping** is the best way to learn
 
 ---
 
-## Find me
+## 🛠️ Tech Stack
 
-- [Portfolio](https://rahul-m-shah-portfolio.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/rahul-mshah)
-- [Email](mailto:rahulmrx@gmail.com)
+**Languages**
 
-*Building things is the best way to learn. Shipping them is the best way to prove it.*
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Game Dev**
+
+![Canvas API](https://img.shields.io/badge/Canvas%20API-%23FF6B35.svg?style=flat-square&logo=html5&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-%23509EE3.svg?style=flat-square&logo=metabase&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stonedhawk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonedhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+---
+
+## 🕹️ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/stonedhawk/Pong-Arcade">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Pong-Arcade&theme=tokyonight&hide_border=true" alt="Pong Arcade" />
+</a>
+<a href="https://github.com/stonedhawk/Snake-Reloaded">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Snake-Reloaded&theme=tokyonight&hide_border=true" alt="Snake Reloaded" />
+</a>
+<a href="https://github.com/stonedhawk/space-invaders">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=space-invaders&theme=tokyonight&hide_border=true" alt="Space Invaders" />
+</a>
+<a href="https://github.com/stonedhawk/wordle-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=wordle-clone&theme=tokyonight&hide_border=true" alt="Wordle Clone" />
+</a>
+<a href="https://github.com/stonedhawk/2048">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=2048&theme=tokyonight&hide_border=true" alt="2048" />
+</a>
+<a href="https://github.com/stonedhawk/OpsDeck">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=OpsDeck&theme=tokyonight&hide_border=true" alt="OpsDeck" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <i>🚀 "Building things is the best way to learn. Shipping them is the best way to prove it."</i>
+</div>
