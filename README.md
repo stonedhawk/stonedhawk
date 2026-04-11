@@ -76,6 +76,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🧠 [Semantic Echo](https://github.com/stonedhawk/Semantic-Echo) | Daily puzzle — guess a word by semantic proximity using cosine similarity | TypeScript, RTK |
+| 🃏 [Lexicon Crawler](https://github.com/stonedhawk/lexicon-crawler) | Roguelite word game — draft a letter deck to defeat enemies through word construction | JS |
 | 🏓 [Pong Arcade](https://github.com/stonedhawk/pong-arcade) | Classic ping-pong with an AI opponent | Canvas, JS |
 | 🐍 [Snake Reloaded](https://github.com/stonedhawk/snake-reloaded) | Snake with high score tracking | Canvas, JS |
 | 👾 [Space Invaders](https://github.com/stonedhawk/space-invaders) | Retro shooter with progressive difficulty | Canvas, JS |
