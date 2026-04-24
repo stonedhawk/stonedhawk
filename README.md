@@ -26,7 +26,7 @@
 - 📱 **16 years** in mobile gaming — live ops, monetization, player retention, and everything in between
 - 🕹️ Co-founder of India's top-ranked DOTA 1 team *(yes, really)*
 - 🏢 Past studios: **Tencent Games**, **Glu Mobile**, and more
-- 🌙 Nights & weekends: building browser games and productivity tools for fun
+- 🌙 Nights & weekends: building browser games, Android apps, and dev tools for fun
 - 💡 Firm believer that **shipping** is the best way to learn
 
 ---
@@ -37,6 +37,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -46,6 +47,7 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
 
 **Game Dev**
 
@@ -72,18 +74,34 @@
 
 ---
 
-## 🕹️ Featured Projects
+## 🕹️ Browser Games
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🧠 [Semantic Echo](https://github.com/stonedhawk/Semantic-Echo) | Daily puzzle — guess a word by semantic proximity using cosine similarity | TypeScript, RTK |
 | 🃏 [Lexicon Crawler](https://github.com/stonedhawk/lexicon-crawler) | Roguelite word game — draft a letter deck to defeat enemies through word construction | JS |
+| 🟩 [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | Daily word guessing game with stats tracking | React |
+| 🔢 [2048](https://github.com/stonedhawk/2048) | Sliding tile puzzle — merge matching numbers to reach 2048 | React |
+| 🃏 [Memory Match](https://github.com/stonedhawk/memory-match) | Card-flip matching game with difficulty levels and timer | React |
+| ✏️ [Mini Crossword](https://github.com/stonedhawk/mini-crossword) | 5×5 crossword puzzle with clues, playable in the browser | React |
+| 💣 [Minesweeper](https://github.com/stonedhawk/minesweeper) | Classic minesweeper with recursive reveal and three difficulty levels | React |
 | 🏓 [Pong Arcade](https://github.com/stonedhawk/pong-arcade) | Classic ping-pong with an AI opponent | Canvas, JS |
-| 🐍 [Snake Reloaded](https://github.com/stonedhawk/snake-reloaded) | Snake with high score tracking | Canvas, JS |
+| 🐍 [Snake Reloaded](https://github.com/stonedhawk/snake-reloaded) | Snake with high score tracking and retro aesthetic | Canvas, JS |
 | 👾 [Space Invaders](https://github.com/stonedhawk/space-invaders) | Retro shooter with progressive difficulty | Canvas, JS |
-| 🟩 [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | Daily word guessing game with stats | React |
-| 🔢 [2048](https://github.com/stonedhawk/2048) | Sliding tile puzzle game | React |
-| 🃏 [Memory Match](https://github.com/stonedhawk/memory-match) | Card-flip matching game with difficulty levels | React |
+| 🏃 [Pixel Platformer](https://github.com/stonedhawk/pixel-platformer) | Side-scrolling platformer with 3 levels, enemies, and collectibles | Canvas, JS |
+
+## 📱 Android Games
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🎲 [Dice Battler](https://github.com/stonedhawk/Dice-Battler) | Turn-based combat — roll three dice and assign each to Attack, Block, or Heal across a 10-battle run | Kotlin, Android |
+| 🗼 [Mini Tower Defense](https://github.com/stonedhawk/Mini-Tower-Defense-Offline) | Compact offline tower defense — real-time game loop, fully offline | Kotlin, Android |
+
+## 📦 Libraries & Tools
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 📖 [game-ready-dictionary](https://github.com/stonedhawk/game-ready-dictionary) | Pre-compiled Trie dictionary for game dev — O(m) lookups, US/UK dialects, ENABLE1 & SCOWL word lists | JS |
 
 ---
 
