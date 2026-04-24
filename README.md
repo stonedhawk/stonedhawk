@@ -78,6 +78,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🔤 [DropQuote Architect](https://stonedhawk.github.io/DropQuote-Architect/) | Arcade word-builder — steer falling letters into a live grid, form words to clear space, survive rising pressure | React, TypeScript, RTK |
 | 🧠 [Semantic Echo](https://github.com/stonedhawk/Semantic-Echo) | Daily puzzle — guess a word by semantic proximity using cosine similarity | TypeScript, RTK |
 | 🃏 [Lexicon Crawler](https://github.com/stonedhawk/lexicon-crawler) | Roguelite word game — draft a letter deck to defeat enemies through word construction | JS |
 | 🟩 [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | Daily word guessing game with stats tracking | React |
