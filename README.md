@@ -22,8 +22,8 @@
 
 ## 👾 About Me
 
-- 🎮 **Lead Game Producer** @ [Moonfrog Labs](https://www.moonfrog.com/) (Stillfront Group) — Bangalore, India
-- 📱 **16 years** in mobile gaming — live ops, monetization, player retention, and everything in between
+- 🎮 **Lead Game Producer** @ [Moonfrog Labs](https://www.moonfrog.com/) (Stillfront Group), Bangalore, India
+- 📱 **16 years** in mobile gaming: live ops, monetization, player retention, and everything in between
 - 🕹️ Co-founder of India's top-ranked DOTA 1 team *(yes, really)*
 - 🏢 Past studios: **Tencent Games**, **Glu Mobile**, and more
 - 🌙 Nights & weekends: building browser games, Android apps, and dev tools for fun
@@ -78,11 +78,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔤 [DropQuote Architect](https://stonedhawk.github.io/DropQuote-Architect/) | Arcade word-builder — steer falling letters into a live grid, form words to clear space, survive rising pressure | React, TypeScript, RTK |
-| 🧠 [Semantic Echo](https://github.com/stonedhawk/Semantic-Echo) | Daily puzzle — guess a word by semantic proximity using cosine similarity | TypeScript, RTK |
-| 🃏 [Lexicon Crawler](https://github.com/stonedhawk/lexicon-crawler) | Roguelite word game — draft a letter deck to defeat enemies through word construction | JS |
+| 🔤 [DropQuote Architect](https://stonedhawk.github.io/DropQuote-Architect/) | Arcade word-builder: steer falling letters into a live grid, form words to clear space, survive rising pressure | React, TypeScript, RTK |
+| 🧠 [Semantic Echo](https://github.com/stonedhawk/Semantic-Echo) | Daily puzzle: guess a word by semantic proximity using cosine similarity | TypeScript, RTK |
+| 🃏 [Lexicon Crawler](https://github.com/stonedhawk/lexicon-crawler) | Roguelite word game: draft a letter deck to defeat enemies through word construction | JS |
 | 🟩 [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | Daily word guessing game with stats tracking | React |
-| 🔢 [2048](https://github.com/stonedhawk/2048) | Sliding tile puzzle — merge matching numbers to reach 2048 | React |
+| 🔢 [2048](https://github.com/stonedhawk/2048) | Sliding tile puzzle: merge matching numbers to reach 2048 | React |
 | 🃏 [Memory Match](https://github.com/stonedhawk/memory-match) | Card-flip matching game with difficulty levels and timer | React |
 | ✏️ [Mini Crossword](https://github.com/stonedhawk/mini-crossword) | 5×5 crossword puzzle with clues, playable in the browser | React |
 | 💣 [Minesweeper](https://github.com/stonedhawk/minesweeper) | Classic minesweeper with recursive reveal and three difficulty levels | React |
@@ -90,19 +90,23 @@
 | 🐍 [Snake Reloaded](https://github.com/stonedhawk/snake-reloaded) | Snake with high score tracking and retro aesthetic | Canvas, JS |
 | 👾 [Space Invaders](https://github.com/stonedhawk/space-invaders) | Retro shooter with progressive difficulty | Canvas, JS |
 | 🏃 [Pixel Platformer](https://github.com/stonedhawk/pixel-platformer) | Side-scrolling platformer with 3 levels, enemies, and collectibles | Canvas, JS |
+| 📈 [LiveOps Tycoon](https://stonedhawk.github.io/liveops-tycoon/) | Idle economy sim where you play the product owner of a mobile game, growing DAU and ARPDAU through live events | JS |
 
 ## 📱 Android Games
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎲 [Dice Battler](https://github.com/stonedhawk/Dice-Battler) | Turn-based combat — roll three dice and assign each to Attack, Block, or Heal across a 10-battle run | Kotlin, Android |
-| 🗼 [Mini Tower Defense](https://github.com/stonedhawk/Mini-Tower-Defense-Offline) | Compact offline tower defense — real-time game loop, fully offline | Kotlin, Android |
+| 🎲 [Dice Battler](https://github.com/stonedhawk/Dice-Battler) | Turn-based combat: roll three dice and assign each to Attack, Block, or Heal across a 10-battle run | Kotlin, Android |
+| 🗼 [Mini Tower Defense](https://github.com/stonedhawk/Mini-Tower-Defense-Offline) | Compact offline tower defense: real-time game loop, fully offline | Kotlin, Android |
 
 ## 📦 Libraries & Tools
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 📖 [game-ready-dictionary](https://github.com/stonedhawk/game-ready-dictionary) | Pre-compiled Trie dictionary for game dev — O(m) lookups, US/UK dialects, ENABLE1 & SCOWL word lists | JS |
+| 🎰 [gacha-odds-pity-auditor](https://github.com/stonedhawk/gacha-odds-pity-auditor) | AI auditor for game economy designers that simulates gacha odds, effective drop rates, and pity systems | LLM Skill |
+| 📅 [liveops-event-calendar-skill](https://github.com/stonedhawk/liveops-event-calendar-skill) | 4-week LiveOps event calendar planner that diagnoses your retention curve before scheduling events | LLM Skill |
+| ⚖️ [compliance-prescreener-skill](https://github.com/stonedhawk/compliance-prescreener-skill) | Audits monetization, gacha, and LiveOps mechanics against App Store, Google Play, and EU compliance rules | LLM Skill |
+| 📖 [game-ready-dictionary](https://github.com/stonedhawk/game-ready-dictionary) | Pre-compiled Trie dictionary for game dev: O(m) lookups, US/UK dialects, ENABLE1 & SCOWL word lists | JS |
 
 ---
 
