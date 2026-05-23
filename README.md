@@ -37,7 +37,9 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -45,17 +47,29 @@
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23FF6B35.svg?style=flat-square&logo=react&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%230055FF.svg?style=flat-square&logo=framer&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
 
 **Game Dev**
 
 ![Canvas API](https://img.shields.io/badge/Canvas%20API-%23FF6B35.svg?style=flat-square&logo=html5&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-%234A90D9.svg?style=flat-square&logo=html5&logoColor=white)
+![AABB Physics](https://img.shields.io/badge/AABB%20Physics-%236E4C8E.svg?style=flat-square&logo=html5&logoColor=white)
 
 **Tools & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=flat-square&logo=awslambda&logoColor=white)
+![Alexa Skills Kit](https://img.shields.io/badge/Alexa%20Skills%20Kit-%2300CAFF.svg?style=flat-square&logo=amazon-alexa&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=flat-square&logo=vitest&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-%23509EE3.svg?style=flat-square&logo=metabase&logoColor=white)
@@ -69,6 +83,10 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonedhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stonedhawk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
@@ -78,19 +96,19 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔤 [DropQuote Architect](https://stonedhawk.github.io/DropQuote-Architect/) | Arcade word-builder: steer falling letters into a live grid, form words to clear space, survive rising pressure | React, TypeScript, RTK |
-| 🧠 [Semantic Echo](https://github.com/stonedhawk/Semantic-Echo) | Daily puzzle: guess a word by semantic proximity using cosine similarity | TypeScript, RTK |
-| 🃏 [Lexicon Crawler](https://github.com/stonedhawk/lexicon-crawler) | Roguelite word game: draft a letter deck to defeat enemies through word construction | JS |
-| 🟩 [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | Daily word guessing game with stats tracking | React |
-| 🔢 [2048](https://github.com/stonedhawk/2048) | Sliding tile puzzle: merge matching numbers to reach 2048 | React |
-| 🃏 [Memory Match](https://github.com/stonedhawk/memory-match) | Card-flip matching game with difficulty levels and timer | React |
-| ✏️ [Mini Crossword](https://github.com/stonedhawk/mini-crossword) | 5×5 crossword puzzle with clues, playable in the browser | React |
-| 💣 [Minesweeper](https://github.com/stonedhawk/minesweeper) | Classic minesweeper with recursive reveal and three difficulty levels | React |
-| 🏓 [Pong Arcade](https://github.com/stonedhawk/pong-arcade) | Classic ping-pong with an AI opponent | Canvas, JS |
-| 🐍 [Snake Reloaded](https://github.com/stonedhawk/snake-reloaded) | Snake with high score tracking and retro aesthetic | Canvas, JS |
-| 👾 [Space Invaders](https://github.com/stonedhawk/space-invaders) | Retro shooter with progressive difficulty | Canvas, JS |
-| 🏃 [Pixel Platformer](https://github.com/stonedhawk/pixel-platformer) | Side-scrolling platformer with 3 levels, enemies, and collectibles | Canvas, JS |
-| 📈 [LiveOps Tycoon](https://stonedhawk.github.io/liveops-tycoon/) | Idle economy sim where you play the product owner of a mobile game, growing DAU and ARPDAU through live events | JS |
+| 🔤 [DropQuote Architect](https://stonedhawk.github.io/DropQuote-Architect/) | Arcade word-builder: steer falling letters into a live grid, form words to clear space, survive rising pressure | React, TypeScript, CSS Animations |
+| 🧠 [Semantic Echo](https://stonedhawk.github.io/semantic-echo/) | Daily semantic word game: guess the target word by cosine-similarity proximity — the hotter the trace, the closer you are | TypeScript, NLP, Vector Search |
+| 🃏 [Lexicon Crawler](https://stonedhawk.github.io/lexicon-crawler/) | Roguelite word crawler: 20-floor dungeon where dictionary mastery meets tactical turn-based combat | React, Zustand, TailwindCSS |
+| 🟩 [Wordle Clone](https://stonedhawk.github.io/wordle-clone/) | Daily word guessing game with hard mode, session stats, and CSS keyframe tile animations | React, CSS Animations |
+| 🎵 [2048: Premium Sensory Edition](https://stonedhawk.github.io/2048/) | Sliding tile puzzle with a procedurally synthesized Web Audio soundtrack that reacts to every move | Vanilla JS, CSS Grid, Web Audio API |
+| 🃏 [Memory Match](https://stonedhawk.github.io/memory-match/) | Card-flip matching game with difficulty levels and CSS 3D flip animations | HTML5, CSS 3D, Vanilla JS |
+| ✏️ [Mini Crossword](https://stonedhawk.github.io/mini-crossword/) | 5×5 daily crossword with smart cell traversal, intersecting-word input, and direction auto-switching | React, Data Structures |
+| 💣 [Minesweeper](https://stonedhawk.github.io/minesweeper/) | Classic minesweeper with recursive flood-fill reveal and three difficulty levels | Vanilla JS, Recursive Algorithms |
+| 🏓 [Pong Arcade](https://stonedhawk.github.io/pong-arcade/) | Classic ping-pong with a scaling AI opponent and Canvas rendering loop | HTML5 Canvas, Vanilla JS |
+| 🐍 [Snake Reloaded](https://stonedhawk.github.io/snake-reloaded/) | Snake with a CRT scanline aesthetic, phosphor glow, retro color grading, and dynamic speed scaling | Vanilla JS, CSS Filters, Canvas |
+| 👾 [Space Invaders: Overdrive](https://stonedhawk.github.io/space-invaders/) | 10-wave arcade shooter with boss battles and a synthesized Web Audio API soundtrack | Vanilla JS, Web Audio API, TDD |
+| 🏃 [Pixel Platformer](https://stonedhawk.github.io/pixel-platformer/) | 10-level precision platformer with AABB physics, hand-crafted levels, and a multi-phase boss | HTML5 Canvas, AABB Physics |
+| 📈 [LiveOps Tycoon](https://stonedhawk.github.io/liveops-tycoon/) | Idle economy sim: play the product owner of a mobile game, grow DAU and ARPDAU through live events | Vanilla JS, MVC Architecture |
 
 ## 📱 Android Games
 
@@ -103,10 +121,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎰 [gacha-odds-pity-auditor](https://github.com/stonedhawk/gacha-odds-pity-auditor) | AI auditor for game economy designers that simulates gacha odds, effective drop rates, and pity systems | LLM Skill |
-| 📅 [liveops-event-calendar-skill](https://github.com/stonedhawk/liveops-event-calendar-skill) | 4-week LiveOps event calendar planner that diagnoses your retention curve before scheduling events | LLM Skill |
-| ⚖️ [compliance-prescreener-skill](https://github.com/stonedhawk/compliance-prescreener-skill) | Audits monetization, gacha, and LiveOps mechanics against App Store, Google Play, and EU compliance rules | LLM Skill |
-| 📖 [game-ready-dictionary](https://github.com/stonedhawk/game-ready-dictionary) | Pre-compiled Trie dictionary for game dev: O(m) lookups, US/UK dialects, ENABLE1 & SCOWL word lists | JS |
+| 🔬 [review-pulse-AI](https://github.com/stonedhawk/review-pulse-AI) | AI-powered app store review aggregator: clusters player sentiment, surfaces feature requests, tracks review velocity after LiveOps events | Python, NLP, OpenAI API |
+| 🎰 [gacha-odds-pity-auditor](https://github.com/stonedhawk/gacha-odds-pity-auditor) | AI auditor for game economy designers that simulates gacha odds, effective drop rates, and pity systems | Python, Monte Carlo Simulation |
+| 📅 [liveops-event-calendar-skill](https://github.com/stonedhawk/liveops-event-calendar-skill) | Voice-activated LiveOps event calendar: ask Alexa what's active, upcoming, or ending soon without opening a dashboard | Node.js, Alexa Skills Kit, AWS Lambda |
+| ⚖️ [compliance-prescreener-skill](https://github.com/stonedhawk/compliance-prescreener-skill) | Audits monetization, gacha, and LiveOps mechanics against App Store, Google Play, and EU compliance rules | Node.js, Alexa Skills Kit |
+| 📖 [game-ready-dictionary](https://github.com/stonedhawk/game-ready-dictionary) | Pre-compiled Trie dictionary for game dev: O(m) lookups, US/UK dialects, ENABLE1 & SCOWL word lists, CI/CD NPM distribution | Python, GitHub Actions, NPM |
 
 ---
 
