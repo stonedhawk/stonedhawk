@@ -39,17 +39,17 @@
 <div align="center">
 
 <a href="https://github.com/stonedhawk/Iron-Shard-Battle-City-Overdrive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Iron-Shard-Battle-City-Overdrive&theme=tokyonight&hide_border=true" alt="Iron Shard: Battle City Overdrive" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Iron-Shard-Battle-City-Overdrive&theme=tokyonight&hide_border=true" alt="Iron Shard: Battle City Overdrive" />
 </a>
 <a href="https://github.com/stonedhawk/phase-shift-rgb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=phase-shift-rgb&theme=tokyonight&hide_border=true" alt="Phase Shift: RGB" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=phase-shift-rgb&theme=tokyonight&hide_border=true" alt="Phase Shift: RGB" />
 </a>
 
 <a href="https://github.com/stonedhawk/review-pulse-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=review-pulse-AI&theme=tokyonight&hide_border=true" alt="ReviewPulse AI" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=review-pulse-AI&theme=tokyonight&hide_border=true" alt="ReviewPulse AI" />
 </a>
 <a href="https://github.com/stonedhawk/game-ready-dictionary">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=game-ready-dictionary&theme=tokyonight&hide_border=true" alt="game-ready-dictionary" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=game-ready-dictionary&theme=tokyonight&hide_border=true" alt="game-ready-dictionary" />
 </a>
 
 </div>
@@ -165,11 +165,11 @@ Every game below is **deployed and playable right now**. Click ▶ and you're in
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonedhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=stonedhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stonedhawk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stonedhawk&theme=tokyonight&utcOffset=5.5" alt="Commits by Hour" />
 </div>
 
 ---
