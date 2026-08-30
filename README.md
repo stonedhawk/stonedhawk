@@ -29,7 +29,7 @@
 - 🏢 Past studios: **Tencent Games**, **Glu Mobile**, and more
 - 🕹️ Co-founder of India's top-ranked DOTA 1 team *(yes, really)*
 - 🤖 Currently building **AI tools for game teams** — review triage, gacha audits, compliance checks, LiveOps planning
-- 🚀 **22 public projects** below, **17 live and playable** right now
+- 🚀 **24 public projects** below, **17 live and playable** right now
 - 💡 Firm believer that **shipping** is the best way to learn
 
 ---
@@ -69,6 +69,17 @@ Producer problems I've lived for 16 years, packaged as AI tools. No dashboards, 
 
 ---
 
+## 📊 Producer Tools — UA & Monetization
+
+The numbers I argue about at work, turned into models you can open and use. Single HTML file each, zero dependencies, nothing phones home.
+
+| Tool | Open | What it does | Stack |
+|------|:----:|--------------|-------|
+| 💰 [LTV & ROAS Modeler](https://github.com/stonedhawk/mobile-ltv-roas-modeler) | [▶](https://stonedhawk.github.io/mobile-ltv-roas-modeler/) | Fit a retention curve from D1–D30, project LTV/ROAS out to D720, find your payback day, and reverse-solve the D7/D14 ROAS you need to break even by D180/360/720 | Vanilla JS · Canvas · Zero deps |
+| 🧪 [UA Incrementality Lab](https://github.com/stonedhawk/mobile-ua-incrementality-lab) | [▶](https://stonedhawk.github.io/mobile-ua-incrementality-lab/) | Design and read incrementality / lift tests, then reconcile conflicting platform, MMP, and SKAN numbers into one defensible ROAS — built for post-ATT measurement where last-click attribution lies | Vanilla JS · Canvas · Zero deps |
+
+---
+
 ## 🕹️ Browser Arcade — 15 Games, Zero Installs
 
 Every game below is **deployed and playable right now**. Click ▶ and you're in.
@@ -82,7 +93,7 @@ Every game below is **deployed and playable right now**. Click ▶ and you're in
 | 🃏 [Lexicon Crawler](https://github.com/stonedhawk/lexicon-crawler) | [▶](https://stonedhawk.github.io/lexicon-crawler/) | Roguelite where your deck is letters: draft tiles, battle a 20-floor dungeon through word construction | React · Zustand · TailwindCSS |
 | 📈 [LiveOps Tycoon](https://github.com/stonedhawk/liveops-tycoon) | [▶](https://stonedhawk.github.io/liveops-tycoon/) | Idle sim where you play a mobile-game product owner: grow DAU and ARPDAU through live events | Vanilla JS · MVC |
 | 🟩 [Wordle Clone](https://github.com/stonedhawk/wordle-clone) | [▶](https://stonedhawk.github.io/wordle-clone/) | Daily word guessing with hard mode, session stats, and CSS keyframe tile animations | React · CSS Animations |
-| 🔢 [2048: Premium Sensory Edition](https://github.com/stonedhawk/2048) | [▶](https://stonedhawk.github.io/2048/) | Sliding tile puzzle with a procedurally synthesized soundtrack that reacts to every move | React · Web Audio API |
+| 🔢 [2048: Premium Sensory Edition](https://github.com/stonedhawk/2048) | [▶](https://stonedhawk.github.io/2048/) | Sliding tile puzzle with a procedurally synthesized soundtrack that reacts to every move | Vanilla JS · Web Audio API |
 | ✏️ [Mini Crossword](https://github.com/stonedhawk/mini-crossword) | [▶](https://stonedhawk.github.io/mini-crossword/) | 5×5 daily crossword with smart cell traversal and direction auto-switching | React · Data Structures |
 | 💣 [Minesweeper](https://github.com/stonedhawk/minesweeper) | [▶](https://stonedhawk.github.io/minesweeper/) | Classic minesweeper with recursive flood-fill reveal and three difficulty levels | React · Recursive Algorithms |
 | 🎴 [Memory Match](https://github.com/stonedhawk/memory-match) | [▶](https://stonedhawk.github.io/memory-match/) | Card-flip matching with emoji pairs, CSS 3D flip animations, and difficulty levels | React · CSS 3D |
