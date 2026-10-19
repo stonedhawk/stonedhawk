@@ -38,18 +38,25 @@
 
 <div align="center">
 
-<a href="https://github.com/stonedhawk/Iron-Shard-Battle-City-Overdrive">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Iron-Shard-Battle-City-Overdrive&theme=tokyonight&hide_border=true" alt="Iron Shard: Battle City Overdrive" />
+<a href="https://github.com/stonedhawk/DropQuote-Architect">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=DropQuote-Architect&theme=tokyonight&hide_border=true" alt="DropQuote Architect" />
 </a>
 <a href="https://github.com/stonedhawk/phase-shift-rgb">
   <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=phase-shift-rgb&theme=tokyonight&hide_border=true" alt="Phase Shift: RGB" />
 </a>
 
-<a href="https://github.com/stonedhawk/review-pulse-AI">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=review-pulse-AI&theme=tokyonight&hide_border=true" alt="ReviewPulse AI" />
+<a href="https://github.com/stonedhawk/Iron-Shard-Battle-City-Overdrive">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Iron-Shard-Battle-City-Overdrive&theme=tokyonight&hide_border=true" alt="Iron Shard: Battle City Overdrive" />
 </a>
+<a href="https://github.com/stonedhawk/Semantic-Echo">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=Semantic-Echo&theme=tokyonight&hide_border=true" alt="Semantic Echo" />
+</a>
+
 <a href="https://github.com/stonedhawk/game-ready-dictionary">
   <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=game-ready-dictionary&theme=tokyonight&hide_border=true" alt="game-ready-dictionary" />
+</a>
+<a href="https://github.com/stonedhawk/review-pulse-AI">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=stonedhawk&repo=review-pulse-AI&theme=tokyonight&hide_border=true" alt="ReviewPulse AI" />
 </a>
 
 </div>
