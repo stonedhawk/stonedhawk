@@ -176,7 +176,7 @@ Every game below is **deployed and playable right now**. Click ▶ and you're in
 </div>
 
 <div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=stonedhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=stonedhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=ruby,swift" alt="Top Languages" />
 </div>
 
 <div align="center">
