@@ -28,7 +28,7 @@
 - 📱 **16 years** in mobile gaming: LiveOps, monetization, player retention, and everything in between
 - 🏢 Past studios: **Tencent Games**, **Glu Mobile**, and more
 - 🕹️ Co-founder of India's top-ranked DOTA 1 team *(yes, really)*
-- 🤖 Currently building **AI tools for game teams** — review triage, gacha audits, compliance checks, LiveOps planning
+- 🤖 Currently building **AI tools for game teams**: review triage, gacha audits, compliance checks, LiveOps planning
 - 🚀 **24 public projects** below, **17 live and playable** right now
 - 💡 Firm believer that **shipping** is the best way to learn
 
@@ -65,29 +65,29 @@
 
 ## 🤖 AI Tools for Game Teams
 
-Producer problems I've lived for 16 years, packaged as AI tools. No dashboards, no SDKs — point your LLM at them and go.
+Producer problems I've lived for 16 years, packaged as AI tools. No dashboards, no SDKs; point your LLM at them and go.
 
 | Tool | What it does | Powered by |
 |------|--------------|------------|
 | 🔬 [ReviewPulse AI](https://github.com/stonedhawk/review-pulse-AI) | Play Store triage & response engine: pulls live reviews via the official Google Play Developer API, clusters them by issue, and drafts replies | Python · Google Play API · Gemini |
 | 🎰 [Gacha Odds & Pity Auditor](https://github.com/stonedhawk/gacha-odds-pity-auditor) | Simulates gacha probabilities, calculates effective drop rates (EDR), and stress-tests pity systems for economy designers | Claude · Gemini · ChatGPT |
 | ⚖️ [Compliance Prescreener](https://github.com/stonedhawk/compliance-prescreener-skill) | Audits monetization, gacha, and LiveOps mechanics against Apple App Store, Google Play, and EU regulations | Claude · Gemini · ChatGPT |
-| 📅 [LiveOps Event Calendar](https://github.com/stonedhawk/liveops-event-calendar-skill) | Plans a 4-week LiveOps event calendar — but only after diagnosing your retention curve first | Claude · Custom GPT · Gemini Gem |
+| 📅 [LiveOps Event Calendar](https://github.com/stonedhawk/liveops-event-calendar-skill) | Plans a 4-week LiveOps event calendar, but only after diagnosing your retention curve first | Claude · Custom GPT · Gemini Gem |
 
 ---
 
-## 📊 Producer Tools — UA & Monetization
+## 📊 Producer Tools: UA & Monetization
 
 The numbers I argue about at work, turned into models you can open and use. Single HTML file each, zero dependencies, nothing phones home.
 
 | Tool | Open | What it does | Stack |
 |------|:----:|--------------|-------|
-| 💰 [LTV & ROAS Modeler](https://github.com/stonedhawk/mobile-ltv-roas-modeler) | [▶](https://stonedhawk.github.io/mobile-ltv-roas-modeler/) | Fit a retention curve from D1–D30, project LTV/ROAS out to D720, find your payback day, and reverse-solve the D7/D14 ROAS you need to break even by D180/360/720 | Vanilla JS · Canvas · Zero deps |
-| 🧪 [UA Incrementality Lab](https://github.com/stonedhawk/mobile-ua-incrementality-lab) | [▶](https://stonedhawk.github.io/mobile-ua-incrementality-lab/) | Design and read incrementality / lift tests, then reconcile conflicting platform, MMP, and SKAN numbers into one defensible ROAS — built for post-ATT measurement where last-click attribution lies | Vanilla JS · Canvas · Zero deps |
+| 💰 [LTV & ROAS Modeler](https://github.com/stonedhawk/mobile-ltv-roas-modeler) | [▶](https://stonedhawk.github.io/mobile-ltv-roas-modeler/) | Fit a retention curve from D1-D30, project LTV/ROAS out to D720, find your payback day, and reverse-solve the D7/D14 ROAS you need to break even by D180/360/720 | Vanilla JS · Canvas · Zero deps |
+| 🧪 [UA Incrementality Lab](https://github.com/stonedhawk/mobile-ua-incrementality-lab) | [▶](https://stonedhawk.github.io/mobile-ua-incrementality-lab/) | Design and read incrementality / lift tests, then reconcile conflicting platform, MMP, and SKAN numbers into one defensible ROAS, built for post-ATT measurement where last-click attribution lies | Vanilla JS · Canvas · Zero deps |
 
 ---
 
-## 🕹️ Browser Arcade — 15 Games, Zero Installs
+## 🕹️ Browser Arcade: 15 Games, Zero Installs
 
 Every game below is **deployed and playable right now**. Click ▶ and you're in.
 
@@ -117,7 +117,7 @@ Every game below is **deployed and playable right now**. Click ▶ and you're in
 
 | Game | What you get | Stack |
 |------|--------------|-------|
-| 🎲 [Dice Battler](https://github.com/stonedhawk/Dice-Battler) | Turn-based combat: roll three dice each turn, assign each to Attack, Block, or Heal, survive a 10-battle run — fully offline | Flutter · Dart |
+| 🎲 [Dice Battler](https://github.com/stonedhawk/Dice-Battler) | Turn-based combat: roll three dice each turn, assign each to Attack, Block, or Heal, survive a 10-battle run; fully offline | Flutter · Dart |
 | 🗼 [Mini Tower Defense](https://github.com/stonedhawk/Mini-Tower-Defense-Offline) | Compact offline tower defense built around a real-time game loop, without the exploding scope | Flutter · Dart |
 
 ---
